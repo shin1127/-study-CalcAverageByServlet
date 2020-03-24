@@ -1,7 +1,7 @@
 # CalcAverageByServlet
 
 # Introduction
-3つの数値を入力し、その平均値を表示する動的WebサイトをJAVAサーブレット&JSPで作成した。
+3つの数値を入力し、その平均値を表示する動的WebサイトをJavaサーブレット&JSPで作成した。
 
 # Background
 『スッキリ分かるサーブレット&JSP入門』で学習していたところ、
